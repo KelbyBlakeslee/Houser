@@ -1,0 +1,28 @@
+.App {
+  
+  text-align: center;
+  
+}
+
+.Houser {
+  color: white;
+ height: 100px;
+ background: #519872;
+ margin: 0;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.center-box {
+  background: #E5F4EC;
+  height: 90vh;
+  margin-left: 550px;
+  margin-right: 550px;
+}
+
+.dashboard {
+  margin-right: 200px;
+}
+
+
+
